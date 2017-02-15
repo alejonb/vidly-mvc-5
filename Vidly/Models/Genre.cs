@@ -10,5 +10,6 @@ namespace Vidly.Models
         [StringLength(255)]
         public string Name { get; set; }
         //Comment proof
+        //Comment Prrof 2
     }
 }
